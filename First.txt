@@ -17,3 +17,11 @@ Working Area ===> Staging Area
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Staging Area ===> Local Repository
+
+3.git commit -m "msg" Its use to commit changes i.e savepoint and also Makes the file to be pushed to GitHub
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
