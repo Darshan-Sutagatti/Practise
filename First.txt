@@ -4,3 +4,16 @@ Normal Folder
 Working Area(Your Laptop or any IDE)
 
 1.git init => creates .git file which manages all the operations of the given folder
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Working Area ===> Staging Area
+
+2.git add .
+  
+  git add fn
+
+  git add fn1 fn2 => Now git manages the files 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
