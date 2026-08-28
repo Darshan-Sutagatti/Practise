@@ -1,3 +1,6 @@
-Initial 1st
+Normal Folder
 
-initial seond
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Working Area(Your Laptop or any IDE)
+
+1.git init => creates .git file which manages all the operations of the given folder
