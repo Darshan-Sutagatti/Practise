@@ -24,4 +24,13 @@ Staging Area ===> Local Repository
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
+Local Repo =====> Remote repo
+
+4. git remote add origin "URL"
+
+origin just the value which refers to repository name 
+
+
+5. git push origin main
+
 
